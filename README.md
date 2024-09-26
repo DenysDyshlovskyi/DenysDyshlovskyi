@@ -6,7 +6,7 @@ Here you will see any important projects and some plans for future ones. Current
 <h3>I'm an IT-developer currently looking for an aprenticeship 🤞</h3>
 <br>
 <br>
-![](https://github.com/campfireGIF/campfirepixel.gif)
+<img align="right" width="40%" height="40%" src="https://files.catbox.moe/6chqo5.gif">
 <br>
 <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
