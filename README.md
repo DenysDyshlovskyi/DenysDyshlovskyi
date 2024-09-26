@@ -1,6 +1,7 @@
 ## Hi there 👋 (WiP) 👀
 <br>
 <br>
+I'm an IT-developer currently looking for an aprenticeship 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
@@ -9,10 +10,7 @@
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
 <br>
 <br>
-Most Used Languages in my projects: 
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysDyshlovskyi&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<h3>Most Used Languages in my projects:</h3> 
 <br>
 <picture>
   <source
