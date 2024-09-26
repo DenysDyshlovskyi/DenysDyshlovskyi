@@ -1,7 +1,11 @@
-## Hi there 👋 (WiP) 👀
+## Heya!👋 Welcome to my github. (WiP) 👀
+<br>
+Here you will see any important projects and some plans for future ones. Currently focusing on studies and learning more MySQL.
 <br>
 <br>
-I'm an IT-developer currently looking for an aprenticeship 
+<h3>I'm an IT-developer currently looking for an aprenticeship 🤞</h3>
+<br>
+<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
@@ -19,3 +23,5 @@ I'm an IT-developer currently looking for an aprenticeship
   />
   <img src="https://github-readme-stats.vercel.app/api?username=DenysDyshlovskyi&show_icons=true" />
 </picture>
+
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" /> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" /> 
