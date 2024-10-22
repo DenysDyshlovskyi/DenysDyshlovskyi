@@ -7,7 +7,6 @@ Here you will see any important projects and some plans for future ones. Current
 <br>
 <h2>Currently working as an IT-intern at Renovasjons- og gjenvinningsetaten (REG)</h2>
 <br>
-<br>
 <h4>At free time I'm working on a game project with some friends, called Nocturnal Skirmish.</h4>
 <br>
 <h4>Feel free to check it out! ;:D</h4>
