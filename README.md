@@ -9,10 +9,10 @@ Here you will see any important projects and some plans for future ones. Current
 <h4>At free time I'm working on a game project with some friends, called Nocturnal Skirmish.</h4>
 
 <h4>Feel free to check it out! ;:D</h4>
-<a href="https://github.com/DenysDyshlovskyi/Nocturnal-Skirmish-GameHub-Project">
+<a href="https://github.com/DenysDyshlovskyi/Nocturnal-Skirmish-GameHub-Project">Nocturnal Skirmish & Gamehub</a>
 <br>
 <br>
-<img align="right" width="40%" height="40%" src="https://files.catbox.moe/6chqo5.gif">Nocturnal Skirmish & Gamehub</a>
+<img align="right" width="40%" height="40%" src="https://files.catbox.moe/6chqo5.gif">
 <br>
 <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
