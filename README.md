@@ -6,9 +6,8 @@ Here you will see any important projects and some plans for future ones. Current
 <h3>I'm an IT-developer currently looking for an aprenticeship 🤞</h3>
 <br>
 <h2>Currently working as an IT-intern at Renovasjons- og gjenvinningsetaten (REG)</h2>
-<br>
 <h4>At free time I'm working on a game project with some friends, called Nocturnal Skirmish.</h4>
-<br>
+
 <h4>Feel free to check it out! ;:D</h4>
 <a href="https://github.com/DenysDyshlovskyi/Nocturnal-Skirmish-GameHub-Project">
 <br>
