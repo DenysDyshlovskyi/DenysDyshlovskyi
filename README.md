@@ -12,7 +12,7 @@ Here you will see any important projects and some plans for future ones. Current
 <a href="https://github.com/DenysDyshlovskyi/Nocturnal-Skirmish-GameHub-Project">
 <br>
 <br>
-<img align="right" width="40%" height="40%" src="https://files.catbox.moe/6chqo5.gif">
+<img align="right" width="40%" height="40%" src="https://files.catbox.moe/6chqo5.gif">Nocturnal Skirmish & Gamehub</a>
 <br>
 <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
