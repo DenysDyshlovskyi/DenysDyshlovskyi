@@ -21,6 +21,9 @@ Here you will see any important projects and some plans for future ones. Current
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=css" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=python" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=php" /></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
 <br>
 <br>
 <h3>Most Used Languages in my projects:</h3> 
