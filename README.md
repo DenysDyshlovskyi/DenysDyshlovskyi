@@ -16,7 +16,6 @@ Here you will see any important projects and some plans for future ones. Current
 <br>
 <img align="right" width="40%" height="40%" src="https://files.catbox.moe/6chqo5.gif">
 <br>
-<br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=html" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
@@ -40,7 +39,6 @@ Here you will see any important projects and some plans for future ones. Current
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=xd" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
-<br>
 <br>
 <h3>Most Used Languages in my projects:</h3> 
 <br>
