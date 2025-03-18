@@ -11,7 +11,7 @@ Here you will see any important projects and some plans for future ones. Current
 <h4>😉 Feel free to check out my recent projects! 😉</h4>
 <a href="https://github.com/DenysDyshlovskyi/Nocturnal-Skirmish-GameHub-Project">--> Nocturnal Skirmish & Gamehub</a>
 <br>
-<a href="https://github.com/DenysDyshlovskyi/passmanageroasis">--> Pass Manager Oasis <strong>[Under heavy development]</strong></a>
+<a href="https://github.com/passmanageroasis">--> Pass Manager Oasis <strong>[Under heavy development]</strong></a>
 <br>
 <br>
 <img align="right" width="40%" height="40%" src="https://files.catbox.moe/6chqo5.gif">
