@@ -42,17 +42,8 @@ Here you will see any important projects and some plans for future ones. Current
 <br>
 <h3>Most Used Languages in my projects:</h3> 
 <br>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=DenysDyshlovskyi&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=DenysDyshlovskyi&show_icons=true" />
-</picture>
+
+![DenysDyshlovskyi's Stats](https://github-readme-stats.vercel.app/api?username=DenysDyshlovskyi&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 <br>
 
-![DenysDyshlovskyi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysDyshlovskyi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
-<br>
-
-![DenysDyshlovskyi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenysDyshlovskyi&theme=dracula&hide_border=true)
+![DenysDyshlovskyi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysDyshlovskyi&theme=dracula&show_icons=true&hide_border=true&layout=compact)
