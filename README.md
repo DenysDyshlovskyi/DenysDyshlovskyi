@@ -49,4 +49,4 @@ Here you will see any important projects and some plans for future ones. Current
 ![DenysDyshlovskyi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysDyshlovskyi&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 # 💖 Support me!
-### If you wanna support or hire me contact me through my gmail or discord
+### If you wanna support or hire me, contact me through my gmail or discord
