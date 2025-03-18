@@ -1,14 +1,15 @@
-## Heya!👋 Welcome to my github. (WiP) 👀
-<br>
-Here you will see any important projects and some plans for future ones. Currently focusing on studies and learning more about React.
-<br>
-<br>
-<h3>I'm an IT-developer currently looking for an aprenticeship 🤞</h3>
-<br>
-<h2>Currently working as an IT-intern at Renovasjons- og gjenvinningsetaten (REG)</h2>
-<h4>At free time I'm working on a game project with some friends, called Nocturnal Skirmish.</h4>
+## Heya! Welcome to my profile. (WiP) 👀
+<img alt="Static Badge" src="https://img.shields.io/badge/currently-working-status?style=flat&color=00EE00"> <img alt="Static Badge" src="https://img.shields.io/badge/Discord%20-Magisc-Socials?color=00bbFF">
 
-<h4>😉 Feel free to check out my recent projects! 😉</h4>
+
+I'm an IT-developer currently looking for an aprenticeship 🤞
+
+## 🎓 Currently working as an IT-intern at Renovasjons- og gjenvinningsetaten (REG)
+
+* At free time I'm working on a game project with some friends, called Nocturnal Skirmish.
+
+## 😉 Feel free to check out some of my recent projects! 😉
+
 <a href="https://github.com/DenysDyshlovskyi/Nocturnal-Skirmish-GameHub-Project">--> Nocturnal Skirmish & Gamehub</a>
 <br>
 <a href="https://github.com/passmanageroasis">--> Pass Manager Oasis <strong>[Under heavy development]</strong></a>
@@ -49,4 +50,4 @@ Here you will see any important projects and some plans for future ones. Current
 ![DenysDyshlovskyi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysDyshlovskyi&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 # 💖 Support me!
-### If you wanna support or hire me, contact me through my gmail or discord
+* ### If you wanna support or hire me, contact me through my gmail or discord
