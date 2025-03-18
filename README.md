@@ -18,26 +18,26 @@ Here you will see any important projects and some plans for future ones. Current
 <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=html" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=css" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=python" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=php" /></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=md" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=react" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=ts" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=express" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=godot" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=tauri" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=webstorm" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=md" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=nginx" /></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=npm" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=yarn" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=figma" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=xd" /></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=nginx" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=godot" /></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=webstorm" /></a>
+<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=tauri" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
 <br>
 <h3>Most Used Languages in my projects:</h3> 
@@ -49,3 +49,10 @@ Here you will see any important projects and some plans for future ones. Current
   />
   <img src="https://github-readme-stats.vercel.app/api?username=DenysDyshlovskyi&show_icons=true" />
 </picture>
+<br>
+
+![DenysDyshlovskyi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysDyshlovskyi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+<br>
+
+![DenysDyshlovskyi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenysDyshlovskyi&theme=dracula&hide_border=true)
