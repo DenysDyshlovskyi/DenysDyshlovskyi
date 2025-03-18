@@ -1,6 +1,6 @@
 ## Heya! Welcome to my profile. (WiP) 👀
-![Static Badge](https://img.shields.io/badge/currently-working-status?style=for-the-badge&color=00EE00)
-![Static Badge](https://img.shields.io/badge/Discord%20-Magisc-Socials?style=for-the-badge&color=00bbFF)
+![Static Badge](https://img.shields.io/badge/currently-working-status?style=for-the-badge&color=dd6387)
+![Static Badge](https://img.shields.io/badge/Discord%20-Magisc-Socials?style=for-the-badge&color=d7cf85)
 
 
 I'm an IT-developer currently looking for an aprenticeship 🤞
