@@ -41,7 +41,7 @@ I'm an IT-developer currently looking for an aprenticeship 🤞
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=tauri" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
 <br>
-<h3>Most Used Languages in my projects:</h3> 
+<h3>Most used languages in my projects:</h3> 
 <br>
 
 ![DenysDyshlovskyi's Stats](https://github-readme-stats.vercel.app/api?username=DenysDyshlovskyi&theme=dracula&show_icons=true&hide_border=true&count_private=true)
