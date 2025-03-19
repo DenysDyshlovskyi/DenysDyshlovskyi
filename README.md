@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/Discord%20-Magisc-Socials?style=for-the-badge&labelColor=282a36&color=d7cf85)
 
 
-I'm an IT-developer currently looking for an aprenticeship 🤞
+I'm an IT-developer currently looking for an apprenticeship 🤞
 
 ## 🎓 Currently working as an IT-intern at Renovasjons- og gjenvinningsetaten (REG)
 
