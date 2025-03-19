@@ -69,8 +69,5 @@ I'm an IT-developer currently looking for an apprenticeship 🤞
 * ### Co-developed a social hub for chatting and friends
 * ### Nearly ***half a decade*** of programming experience
 
-
-# 💡 Experience & Education
-
 # 💖 Support me!
 * ### If you wanna support or hire me, contact me through my gmail or discord
