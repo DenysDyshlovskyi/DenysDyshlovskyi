@@ -64,6 +64,8 @@ I'm an IT-developer currently looking for an aprenticeship 🤞
 ![image](https://github.com/user-attachments/assets/71350a65-1e9d-4ec9-abe4-680a4e03b968)
 * ### Credited for bugtesting and contributions in a newly released steam game called Sworn
 * ### Got a brown belt in judo, currently work at my club as a part time coach
+* ### Drawn over 42+ pixel-art cards for a group project
+* ### Developed a unique encryption system for PMO
 
 
 # 💡 Experience & Education
