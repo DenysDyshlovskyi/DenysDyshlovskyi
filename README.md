@@ -10,12 +10,11 @@ I'm an IT-developer currently looking for an aprenticeship 🤞
 * At free time I'm working on a game project with some friends, called Nocturnal Skirmish.
 
 ## 😉 Feel free to check out some of my recent projects! 😉
-
-<a href="https://github.com/DenysDyshlovskyi/Nocturnal-Skirmish-GameHub-Project">--> Nocturnal Skirmish & Gamehub</a>
-<br>
-<a href="https://github.com/passmanageroasis">--> Pass Manager Oasis <strong>[Under heavy development]</strong></a>
+![Static Badge](https://img.shields.io/badge/Nocturnal%20Skirmish-dd6387?style=flat&logo=github&labelColor=006600&color=00EE00&link=https%3A%2F%2Fgithub.com%2FDenysDyshlovskyi%2FNocturnal-Skirmish-GameHub-Project)
+![Static Badge](https://img.shields.io/badge/Pass%20Manager%20Oasis-dd6387?style=flat&logo=github&labelColor=006600&color=00EE00&link=https://github.com/passmanageroasis)
 <br>
 <br>
+## Tools & languages I've got experience with
 <img align="right" width="40%" height="40%" src="https://files.catbox.moe/6chqo5.gif">
 <br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
@@ -42,7 +41,7 @@ I'm an IT-developer currently looking for an aprenticeship 🤞
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=tauri" /></a>
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
 <br>
-<h3>Most used languages in my projects:</h3> 
+<br>
 <br>
 
 ![DenysDyshlovskyi's Stats](https://github-readme-stats.vercel.app/api?username=DenysDyshlovskyi&theme=dracula&show_icons=true&hide_border=true&count_private=true)
