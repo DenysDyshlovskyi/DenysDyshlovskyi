@@ -52,12 +52,21 @@ I'm an IT-developer currently looking for an aprenticeship 🤞
 ![DenysDyshlovskyi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysDyshlovskyi&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 # 🙋‍♂️ About me
-* I'm a part-time brown belt judo coach
+* I'm a part-time judo coach
 * I work as an IT-consultant intern at Renovasjons- og Gjennvinningsetaten
 * I enjoy a wide range gaming genres
 * I often code projects for fun
 * I'm very disciplined and time-critical
 * I've got a burning passion for game-design
+
+# 🏅 Achievements
+* #### Made a mod-character for *Yomi Hustle* called "Hamon User", which has 21,684 subscribers and 97% positive rating (as of 19.03.2025)
+![image](https://github.com/user-attachments/assets/71350a65-1e9d-4ec9-abe4-680a4e03b968)
+* #### Credited for bugtesting and contributions in a newly released steam game called Sworn
+* #### Got a brown belt in judo, currently work at my club as a part time coach
+
+
+# 💡 Experience & Education
 
 # 💖 Support me!
 * ### If you wanna support or hire me, contact me through my gmail or discord
