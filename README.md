@@ -44,12 +44,14 @@ I'm an IT-developer currently looking for an apprenticeship 🤞
 <a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
 <br>
 <br>
-<br>
 
 ![DenysDyshlovskyi's Stats](https://github-readme-stats.vercel.app/api?username=DenysDyshlovskyi&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 <br>
 
 ![DenysDyshlovskyi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysDyshlovskyi&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
+
+[![DenysDyshlovskyi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DenysDyshlovskyi&theme=one-dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # 🙋‍♂️ About me
 * I'm a part-time judo coach
