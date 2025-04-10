@@ -1,6 +1,8 @@
 ## Heya! Welcome to my profile. (WiP) 👀
-![Static Badge](https://img.shields.io/badge/currently-working-status?style=for-the-badge&labelColor=282a36&color=dd6387)
-![Static Badge](https://img.shields.io/badge/Discord%20-Magisc-Socials?style=for-the-badge&labelColor=282a36&color=d7cf85)
+![status](https://api.statusbadges.me/badge/status/635155057507172392?style=for-the-badge&labelColor=282a36&color=dd6387)
+![username](https://img.shields.io/badge/Discord%20-Magisc-Socials?style=for-the-badge&labelColor=282a36&color=d7cf85)
+![playing](https://api.statusbadges.me/badge/playing/635155057507172392?style=for-the-badge&labelColor=282a36&color=dd6387)
+![vscode](https://api.statusbadges.me/badge/vscode/635155057507172392?style=for-the-badge&labelColor=282a36&color=d7cf85)
 
 I'm an IT-developer currently looking for an apprenticeship 🤞
 
