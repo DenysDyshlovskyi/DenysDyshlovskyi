@@ -18,29 +18,29 @@ I'm an IT-developer currently looking for an apprenticeship 🤞
 ## Tools & languages I've got experience with
 <img align="right" width="40%" height="40%" src="https://files.catbox.moe/6chqo5.gif">
 <br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=html" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=css" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=python" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=php" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=md" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=react" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=ts" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=express" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=npm" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=yarn" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=figma" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=xd" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=nginx" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=godot" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=webstorm" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=tauri" /></a>
-<a href="https://html.spec.whatwg.org/multipage/"><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=js" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=html" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=css" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=python" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=cpp" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=php" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=mysql" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=md" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=react" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=ts" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=express" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=npm" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=yarn" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=figma" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=xd" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=nginx" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=godot" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=vscode" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=webstorm" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=tauri" /></a>
+<a href=""><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
 <br>
 <br>
 
