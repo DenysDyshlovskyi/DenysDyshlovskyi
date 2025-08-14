@@ -4,7 +4,9 @@
 ![playing](https://api.statusbadges.me/badge/playing/635155057507172392?style=for-the-badge&labelColor=282a36&color=dd6387)
 ![vscode](https://api.statusbadges.me/badge/vscode/635155057507172392?style=for-the-badge&labelColor=282a36&color=d7cf85)
 
-I'm an IT-developer currently looking for an apprenticeship 🤞
+[//]: # (this is a comment for myself)
+[//]: # (I'm an IT-developer currently looking for an apprenticeship 🤞)
+
 
 ## 🎓 Currently working as an IT-intern at Renovasjons- og gjenvinningsetaten (REG)
 
@@ -57,7 +59,7 @@ I'm an IT-developer currently looking for an apprenticeship 🤞
 # 🙋‍♂️ About me
 * I'm a part-time judo coach
 * I work as an IT-consultant intern at Renovasjons- og Gjennvinningsetaten
-* I enjoy a wide range gaming genres
+* I enjoy a wide range of gaming genres
 * I often code projects for fun
 * I'm very disciplined and time-critical
 * I've got a burning passion for game-design
@@ -73,3 +75,18 @@ I'm an IT-developer currently looking for an apprenticeship 🤞
 * Nearly ***half a decade*** of programming experience
 
 # 💖 Become a sponsor to motivate me!
+
+<!-- > [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
