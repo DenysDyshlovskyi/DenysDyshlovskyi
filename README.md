@@ -19,40 +19,55 @@
 ![Static Badge](https://img.shields.io/badge/Pass%20Manager%20Oasis-dd6387?style=flat&logo=github&labelColor=006600&color=00EE00&link=https://github.com/passmanageroasis)
 <br>
 <br>
+
 ## Tools & languages I've got experience with
-<img align="right" width="40%" height="40%" src="https://files.catbox.moe/6chqo5.gif">
-<br>
-<a href=""><img src="https://skillicons.dev/icons?i=js" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=html" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=css" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=python" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=cpp" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=php" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=mysql" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=md" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=react" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=ts" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=express" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=npm" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=yarn" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=figma" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=xd" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=nginx" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=raspberrypi" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=godot" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=vscode" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=webstorm" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=tauri" /></a>
-<a href=""><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
-<br>
-<br>
 
-![DenysDyshlovskyi's Stats](https://github-readme-stats.vercel.app/api?username=DenysDyshlovskyi&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+<table>
+<tr>
+
+  <!-- Left column: text stays top-aligned -->
+  <td valign="top">
+
+### 🖥️ Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,php,md,html,css)](https://skillicons.dev)
+
+### ⚙️ Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=react,vite,express,nodejs,tauri)](https://skillicons.dev)
+
+### 🗄️ Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+
+### 🛠️ Tools & Package Managers
+[![My Skills](https://skillicons.dev/icons?i=npm,yarn,pip)](https://skillicons.dev)
+
+### 🎨 Design Software
+[![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
+
+### 🌐 Servers & Cloud
+[![My Skills](https://skillicons.dev/icons?i=nginx,cloudflare,docker)](https://skillicons.dev)
+
+### ⌨️ IDEs & Editors
+[![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,robloxstudio)](https://skillicons.dev)
+
+### 🖥️ Operating Systems
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,mint,raspberrypi)](https://skillicons.dev)
+
+### ⚡ Miscellaneous
+[![My Skills](https://skillicons.dev/icons?i=godot,powershell)](https://skillicons.dev)
+
+  </td>
+
+  <!-- Right column: images centered vertically -->
+  <td valign="top" align="center"">
+    <img src="https://files.catbox.moe/6chqo5.gif" width="400" style="display:block; margin:auto;"><br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=DenysDyshlovskyi&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" style="display:block; margin:auto;"><br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysDyshlovskyi&theme=dracula&show_icons=true&hide_border=true&layout=pie&langs_count=10" style="display:block; margin:auto;">
+  </td>
+</tr>
+</table>
+
 <br>
-
-![DenysDyshlovskyi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysDyshlovskyi&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-
+<br>
 
 [![DenysDyshlovskyi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DenysDyshlovskyi&theme=one-dark&show_icons=true&hide_border=true&layout=compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
