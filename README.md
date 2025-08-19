@@ -38,10 +38,10 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
 
 ### 🛠️ Tools & Package Managers
-[![My Skills](https://skillicons.dev/icons?i=npm,yarn,pip)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=npm,yarn,git)](https://skillicons.dev)
 
 ### 🎨 Design Software
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ps,illustrator)](https://skillicons.dev)
 
 ### 🌐 Servers & Cloud
 [![My Skills](https://skillicons.dev/icons?i=nginx,cloudflare,docker)](https://skillicons.dev)
@@ -53,7 +53,7 @@
 [![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,mint,raspberrypi)](https://skillicons.dev)
 
 ### ⚡ Miscellaneous
-[![My Skills](https://skillicons.dev/icons?i=godot,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,powershell,github)](https://skillicons.dev)
 
   </td>
 
