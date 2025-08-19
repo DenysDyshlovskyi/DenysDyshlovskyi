@@ -41,7 +41,7 @@
 [![My Skills](https://skillicons.dev/icons?i=npm,yarn,pip)](https://skillicons.dev)
 
 ### 🎨 Design Software
-[![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,ps)](https://skillicons.dev)
 
 ### 🌐 Servers & Cloud
 [![My Skills](https://skillicons.dev/icons?i=nginx,cloudflare,docker)](https://skillicons.dev)
