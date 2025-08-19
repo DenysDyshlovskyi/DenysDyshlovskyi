@@ -32,7 +32,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,python,php,md,html,css)](https://skillicons.dev)
 
 ### ⚙️ Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,vite,express,nodejs,tauri)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vite,express,nodejs,tauri,flask)](https://skillicons.dev)
 
 ### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
@@ -44,16 +44,16 @@
 [![My Skills](https://skillicons.dev/icons?i=figma,xd,ps,illustrator)](https://skillicons.dev)
 
 ### 🌐 Servers & Cloud
-[![My Skills](https://skillicons.dev/icons?i=nginx,cloudflare,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nginx,cloudflare,docker,azure)](https://skillicons.dev)
 
 ### ⌨️ IDEs & Editors
 [![My Skills](https://skillicons.dev/icons?i=vscode,webstorm,robloxstudio)](https://skillicons.dev)
 
 ### 🖥️ Operating Systems
-[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,mint,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,ubuntu,mint,raspberrypi,debian,)](https://skillicons.dev)
 
 ### ⚡ Miscellaneous
-[![My Skills](https://skillicons.dev/icons?i=godot,powershell,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,powershell,bash,github)](https://skillicons.dev)
 
   </td>
 
