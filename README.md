@@ -60,7 +60,7 @@
   <!-- Right column: images centered vertically -->
   <td valign="top" align="center"">
     <img src="https://files.catbox.moe/6chqo5.gif" width="400" style="display:block; margin:auto;"><br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=DenysDyshlovskyi&theme=dracula&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" style="display:block; margin:auto;"><br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=DenysDyshlovskyi&theme=dracula&show_icons=true&hide_border=true&count_private=true" style="display:block; margin:auto;"><br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenysDyshlovskyi&theme=dracula&show_icons=true&hide_border=true&layout=pie&langs_count=10" style="display:block; margin:auto;">
   </td>
 </tr>
