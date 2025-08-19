@@ -10,9 +10,17 @@
 
 ## 🎓 Currently working as an IT-intern at Renovasjons- og gjenvinningsetaten (REG)
 
-* At free time I'm developing a game project with some friends, called Nocturnal Skirmish.
-* As a side project, I'm making a password manager called Pass Manager Oasis (PMO).
 * I've done a multitude of projects before, and I'll be glad to contribute to yours.
+* Here's some of my ongoing/most relevant projects:
+
+![Current Focus](https://img.shields.io/badge/Currently%20Working%20On-blue?style=for-the-badge&logo=target)
+
+![Current Focus](https://img.shields.io/badge/making%20a%20mod%20for%20Yomi%20Hustle-gray?style=for-the-badge&logo=godotengine)
+![Current Focus](https://img.shields.io/badge/a%20monitoring%20dashboard%20called%20reg_stats-gray?style=for-the-badge&logo=proxmox)
+![Current Focus](https://img.shields.io/badge/focusing%20on%20distributions%20like%20Ubuntu,%20Debian,%20and%20Mint-gray?style=for-the-badge&logo=linux)
+![Current Focus](https://img.shields.io/badge/broadening%20my%20knowledge%20within%20apple%20systems%20(ios,%20macos)-gray?style=for-the-badge&logo=ios)
+
+
 
 ## 😉 Feel free to check out some of my older projects! 😉
 ![Static Badge](https://img.shields.io/badge/Nocturnal%20Skirmish-dd6387?style=flat&logo=github&labelColor=006600&color=00EE00&link=https%3A%2F%2Fgithub.com%2FDenysDyshlovskyi%2FNocturnal-Skirmish-GameHub-Project)
