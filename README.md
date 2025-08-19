@@ -14,7 +14,7 @@
 * As a side project, I'm making a password manager called Pass Manager Oasis (PMO).
 * I've done a multitude of projects before, and I'll be glad to contribute to yours.
 
-## 😉 Feel free to check out some of my recent projects! 😉
+## 😉 Feel free to check out some of my older projects! 😉
 ![Static Badge](https://img.shields.io/badge/Nocturnal%20Skirmish-dd6387?style=flat&logo=github&labelColor=006600&color=00EE00&link=https%3A%2F%2Fgithub.com%2FDenysDyshlovskyi%2FNocturnal-Skirmish-GameHub-Project)
 ![Static Badge](https://img.shields.io/badge/Pass%20Manager%20Oasis-dd6387?style=flat&logo=github&labelColor=006600&color=00EE00&link=https://github.com/passmanageroasis)
 <br>
