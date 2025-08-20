@@ -32,7 +32,7 @@
 [![js,ts,python,php,md,html,css](https://skillicons.dev/icons?i=js,ts,python,php,md,html,css)](https://skillicons.dev)
 
 ### ⚙️ Frameworks & Libraries
-[![react,vite,express,nodejs,tauri,flask](https://skillicons.dev/icons?i=react,vite,express,nodejs,tauri,flask)](https://skillicons.dev)
+[![react,vite,express,nodejs,tauri,flask,tailwind](https://skillicons.dev/icons?i=react,vite,express,nodejs,tauri,flask,tailwind)](https://skillicons.dev)
 
 ### 🗄️ Databases
 [![mysql,sqlite](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
